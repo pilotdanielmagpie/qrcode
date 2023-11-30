@@ -1,0 +1,45 @@
+img {
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+}
+
+body {
+    height: 100vh;
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(212, 45%, 89%)
+    
+}
+
+.container {
+    height: 500px;
+    width: 340px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.img-container {
+    height: 300px;
+    width: 300px ;
+    
+}
+
+.text-container {
+   
+}
+
+.header {
+
+}
+
+.article {
+
+}
